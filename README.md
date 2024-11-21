@@ -1,2 +1,2 @@
 # UQ-DFT
-A DFT library built for uncertainty quantification
+A DFT library built with uncertainty quantification in mind.
